@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">keyboardDemo</string>
+    <string name="demo">安全键盘Demo</string>
+    <string name="name">请输入用户名</string>
+    <string name="pwd">安全键盘绑定EditText</string>
+    <string name="login">安全键盘以Dialog展示</string>
+    <string name="activity_name">activity打开安全键盘</string>
+    <string name="dialog_keyboard">dialog打开安全键盘</string>
+</resources>
